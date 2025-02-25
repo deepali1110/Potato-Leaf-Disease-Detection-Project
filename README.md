@@ -20,6 +20,6 @@ An accessible web application for farmers to utilize in the field.
 Expand the model to include additional diseases.
 Enhance the application with real-time detection features.
 # Conclusion
-#	This project aims to support farmers in managing potato crops effectively, contributing to improved agricultural practices and food security. # Potato Leaf Disease Detection
+This project aims to support farmers in managing potato crops effectively, contributing to improved agricultural practices and food security.
 
 
